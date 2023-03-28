@@ -1,3 +1,9 @@
+# Bot-Messeger
+Chat-GPT application using Flutter and Open-AI.
+
+
+
+
 # chat_gpt
 
 ChatGPT using Flutter and OpenAI API
